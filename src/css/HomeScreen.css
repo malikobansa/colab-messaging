@@ -1,0 +1,39 @@
+main{
+    display: flex;
+    flex-direction: row;
+}
+
+.main{
+    margin-left: 50px;
+}
+
+.btn{
+ width: 200px;
+ display: flex;
+ justify-content: space-between;
+}
+
+.login{
+    background-color: #0096FF;
+    width: 150px;
+    height: 50px;
+    margin-left: 50px;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.sign{
+    background-color: #0096FF;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.form{
+    margin-top: 200px;
+}

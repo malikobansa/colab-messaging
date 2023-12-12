@@ -1,0 +1,22 @@
+/* styles.css */
+.awssld__arrow-left, .awssld__arrow-right {
+    display: none;
+   }
+
+   .container{
+    color: white;
+    width: 600px;
+    height: 600px;
+    background-color: white !important;
+    border-radius: 30px;
+   }
+
+.log{
+    width: 600px;
+    height: 700px;
+}
+
+.forms{
+    margin-top: 150px;
+    margin-left: 100px;
+}
